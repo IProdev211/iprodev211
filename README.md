@@ -36,6 +36,7 @@
 [![Polygon](https://img.shields.io/badge/-Polygon-black?style=flat&logo=polygon&link=https://github.com/iprodev211/)](https://github.com/iprodev211/)
 [![Web3Js](https://img.shields.io/badge/-Web3.js-black?style=flat&logo=web3&link=https://github.com/iprodev211/)](https://github.com/iprodev211/)
 [![SubGraph](https://img.shields.io/badge/-Subgraph-black?style=flat&logo=subgraph&link=https://github.com/iprodev211/)](https://github.com/iprodev211/)
+[![Moralis](https://img.shields.io/badge/-Moralis-black?style=flat&logo=moralis&link=https://github.com/iprodev211/)](https://github.com/iprodev211/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iprodev211/)](https://github.com/iprodev211/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/iprodev211/)](https://github.com/iprodev211/)
